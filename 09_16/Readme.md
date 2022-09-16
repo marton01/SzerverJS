@@ -1,0 +1,5 @@
+- GitHub megismerése
+- Node.js bevezető (1. fejezet)
+- Teszt kitöltése
+- Git verziókezelő telepítése
+- package.json elkészítése és szerkesztése
