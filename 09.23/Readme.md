@@ -4,5 +4,8 @@
 
 ![image](https://user-images.githubusercontent.com/25821228/191944496-a64c1ce4-c16c-440d-af8a-de40458e19be.png)
 
+![image](https://user-images.githubusercontent.com/25821228/191962531-2890d3fa-7c61-4098-a8c7-79db9f185eeb.png)
 
-Jelenleg: https://learn.microsoft.com/hu-hu/training/modules/debug-nodejs/1-introduction
+
+
+Jelenleg: https://learn.microsoft.com/hu-hu/training/modules/debug-nodejs/6-use-vs-code-debugger
